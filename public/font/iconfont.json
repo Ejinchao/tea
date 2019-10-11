@@ -1,0 +1,128 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "562684",
+      "name": "Home",
+      "font_class": "home",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "631099",
+      "name": "home-fill",
+      "font_class": "home-fill",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "777411",
+      "name": "文章",
+      "font_class": "wenzhang",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "860310",
+      "name": "MSG",
+      "font_class": "msg",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "1355043",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "4066834",
+      "name": "圈子",
+      "font_class": "quanzi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4075260",
+      "name": "圈子-选中",
+      "font_class": "quanzi-xuanzhong",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4898035",
+      "name": "文章",
+      "font_class": "wenzhang1",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "5187394",
+      "name": "茶具",
+      "font_class": "chaju",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7247151",
+      "name": "茶具",
+      "font_class": "chaju1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "8337599",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "8376129",
+      "name": "圈子",
+      "font_class": "quanzi1",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "9419362",
+      "name": "茶礼",
+      "font_class": "ziyuan",
+      "unicode": "e517",
+      "unicode_decimal": 58647
+    },
+    {
+      "icon_id": "9754384",
+      "name": "茶杯",
+      "font_class": "chabei",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "10097423",
+      "name": "cart",
+      "font_class": "cart1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10160428",
+      "name": "选中邻里市集",
+      "font_class": "linlishiji",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "10160494",
+      "name": "邻里市集",
+      "font_class": "linlishiji1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}

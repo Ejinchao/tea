@@ -1,0 +1,190 @@
+/* -----------------首页-拼件---------------------- */
+em,
+i,
+strong {
+  font-style: normal;
+}
+.clearfix:after {
+  clear: both;
+  content: '.';
+  display: block;
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+.pj-lists aside {
+  background: #fff;
+  margin-bottom: 0.133333rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+.pj-lists aside .img {
+  width: 100%;
+  height: 5.626667rem;
+  position: relative;
+}
+.pj-lists aside .img .tag {
+  padding: 0 0.106667rem;
+  position: absolute;
+  left: 0.266667rem;
+  top: 0.266667rem;
+  background: #893e20;
+  color: #ffffff;
+  font-size: 0.293333rem;
+  height: 0.466667rem;
+  line-height: 0.466667rem;
+}
+.pj-lists aside .img img {
+  width: 100%;
+  height: 100%;
+}
+aside a img {
+  border: none;
+  vertical-align: top;
+}
+aside .txt {
+  padding: 0.333333rem 0.32rem 0.186667rem;
+  line-height: 0.48rem;
+}
+.clearfix {
+  zoom: 1;
+}
+.pj-lists aside .txt .fl {
+  float: left;
+  font-size: 0.346667rem;
+  color: #000000;
+}
+.pj-lists aside .txt .fr {
+  float: right;
+  font-size: 0.32rem;
+  color: #999999;
+}
+.pj-lists .pj-progress {
+  padding: 0.466667rem 0.32rem;
+}
+.pj-progress .progress-b {
+  background: #eee;
+  height: 0.16rem;
+  border-radius: 0.08rem;
+  position: relative;
+}
+.pj-progress .progress-b .progress-bar {
+  background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #c79c62, #e8b877) repeat
+    scroll 0 0;
+  display: block;
+  height: 0.16rem;
+  border-radius: 0.08rem;
+  transition: width 0.3s linear;
+}
+.pj-progress .progress-b .progress-btn {
+  position: absolute;
+  right: 0;
+  height: 0.506667rem;
+  line-height: 0.506667rem;
+  width: 1.111rem;
+  text-align: center;
+  background: #fff;
+  border: 1px solid #d0a66c;
+  border-radius: 0.253333rem;
+  font-size: 0.293333rem;
+  color: #d0a66c;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  box-shadow: -2px 3px 3px rgba(0, 0, 0, 0.1);
+  transition: left 0.3s linear;
+}
+
+.pj-progress .progress-b .progress-btn em {
+  display: block;
+  position: absolute;
+  top: -0.533333rem;
+  font-size: 0.266667rem;
+}
+
+.pinjian .pj-collect {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0.306667rem;
+}
+.pinjian .pj-collect li {
+  flex: 3;
+  text-align: center;
+}
+.pinjian .pj-collect li em {
+  display: block;
+  font-size: 0.32rem;
+  color: #999;
+  line-height: 0.48rem;
+}
+.pinjian .pj-collect li strong {
+  display: block;
+  font-size: 0.48rem;
+  color: #000;
+  font-weight: normal;
+  line-height: 0.88rem;
+}
+
+/* -----------------首页-小方罐---------------------- */
+.page-wrapper {
+  min-height: 86.5%;
+  width: 100%;
+}
+.multiple_special .info-wrap {
+  background: #fff;
+  margin-bottom: 0.133333rem;
+}
+
+.multiple_special .info-wrap img {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+.multiple_special a img {
+  border: none;
+  vertical-align: top;
+}
+.multiple_special .recommend-wrap.pb88 {
+  padding-bottom: 1.173333rem;
+}
+.multiple_special .recommend-wrap .pinjian {
+  background: #fff;
+  margin-bottom: 0.133333rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+.pinjian .img {
+  width: 100%;
+  height: 5.626667rem;
+  position: relative;
+}
+.multiple_special .recommend-wrap .pinjian .img img {
+  width: 100%;
+  height: 100%;
+}
+.multiple_special .recommend-wrap .pinjian .txt {
+  padding: 0.333333rem 0.32rem 0.186667rem;
+  line-height: 0.48rem;
+}
+.clearfix {
+  zoom: 1;
+}
+
+.multiple_special .recommend-wrap .pinjian .txt .fl {
+  float: left;
+  font-size: 0.346667rem;
+  color: #000000;
+}
+.recommend-wrap .pinjian .txt .fr {
+  float: right;
+  font-size: 0.32rem;
+  color: #999999;
+}
+.pinjian .pj-progress {
+  padding: 0.466667rem 0.32rem;
+}
+.multiple_special .recommend-wrap .heji .img img,
+.multiple_special .recommend-wrap .renwu .img img {
+  width: 100%;
+  display: block;
+  height: 100%;
+  margin-bottom: 0.133333rem;
+}
